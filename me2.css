@@ -1,0 +1,17 @@
+
+body {
+	background-color: powderblue;
+}
+h1   {color: #FA8072; font-family: verdana;  font-size: 300%;
+      border: 1px solid black;  padding: 20px;}
+p    {color: #666600; font-family: courier; font-size: 150%;}
+h4	 {color: #FA8072;font-family: verdana;  font-size: 200%;
+      border: 1px solid black;  padding: 20px;}
+ul   {color: #666600; font-family:  courier; font-size: 120%;}
+
+table, th, td {
+     color: #CD5C5C; border: 1px solid black; font-family:  courier; font-size: 120%;
+}
+
+
+
